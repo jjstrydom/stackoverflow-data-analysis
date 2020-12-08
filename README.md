@@ -6,6 +6,8 @@ The questions answered in this analysis is:
 - Are things improving for minority groups?
 - Is the road to success the same for those coming from privilege than those who are not?
 
+The [full blog post is published on medium](https://jurgen-strydom.medium.com/minorities-and-the-developer-community-7abe922f8ccb).
+
 
 ## Environment
 The analysis uses python. The environment is managed using `pipenv`. [This link](https://realpython.com/pipenv-guide/) will help you get started with `pipenv`.
